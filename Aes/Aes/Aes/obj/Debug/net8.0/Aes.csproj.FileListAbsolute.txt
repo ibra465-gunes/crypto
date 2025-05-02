@@ -1,0 +1,14 @@
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.AssemblyInfoInputs.cache
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.AssemblyInfo.cs
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.csproj.CoreCompileInputs.cache
+C:\Users\elma\Desktop\Aes\Aes\bin\Debug\net8.0\Aes.exe
+C:\Users\elma\Desktop\Aes\Aes\bin\Debug\net8.0\Aes.deps.json
+C:\Users\elma\Desktop\Aes\Aes\bin\Debug\net8.0\Aes.runtimeconfig.json
+C:\Users\elma\Desktop\Aes\Aes\bin\Debug\net8.0\Aes.dll
+C:\Users\elma\Desktop\Aes\Aes\bin\Debug\net8.0\Aes.pdb
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.dll
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\refint\Aes.dll
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.pdb
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\Aes.genruntimeconfig.cache
+C:\Users\elma\Desktop\Aes\Aes\obj\Debug\net8.0\ref\Aes.dll
